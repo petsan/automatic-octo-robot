@@ -2,3 +2,6 @@
 
 # this my awesome game that anounces itself to the world
 print("this is my awesome game")
+
+# a new update
+print("goodbye!"
